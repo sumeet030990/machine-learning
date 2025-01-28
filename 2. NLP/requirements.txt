@@ -1,0 +1,4 @@
+nltk
+gensim
+tqdm
+bs4
